@@ -22,3 +22,6 @@ How do the diagrams help you visualize the branch structure?
 They help you visualize branch structure by showing how a branch splits off of the main branch and how
 the split branch grows as commits are added to it.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches together is the old file plus whatever additions have been made and 
+minus was ever subtractions have been made. We represent it the way we do because the to branches actually do merge together.
