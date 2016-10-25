@@ -9,3 +9,6 @@ created and then stored in the repository. It is different from the working dire
 the working directory contains what files can be put into the staging area. It is valueble
 because that is where you can assemble commits with the files you want to be in the repository.
 
+How can you use the staging area to make sure you have one commit per logical change?
+You can by looking what files you have changed and create commits by picking out what changes should be
+together.
