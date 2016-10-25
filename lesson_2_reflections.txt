@@ -25,3 +25,8 @@ the split branch grows as commits are added to it.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result of merging two branches together is the old file plus whatever additions have been made and 
 minus was ever subtractions have been made. We represent it the way we do because the to branches actually do merge together.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Pros:Very quick
+     Catches conflicts and identifies them in the file
+Cons:Has conflicts
