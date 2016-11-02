@@ -24,3 +24,9 @@ How would you collaborate without using git or github? what would be easier and 
 You could pass around one file at a time and make changes to it while you have the file.
 This would take alot longer as only one person could work on a file at a time also you would have
 a much harder time finding out what changes another person made.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits
+does each approach have?
+You would want to make changes almost always in a separate branch when collaborating with others because
+if you did it could change code that others were relying upon. although it is slower to work on a 
+separate branch.
