@@ -20,3 +20,7 @@ You would want to use this when making a new feature or testing something out.
 What is that benefit of having a copy of the last known state of the remote stored locally?
 So you know where you are locally in relation to the remote.
 
+How would you collaborate without using git or github? what would be easier and what would be harder.
+You could pass around one file at a time and make changes to it while you have the file.
+This would take alot longer as only one person could work on a file at a time also you would have
+a much harder time finding out what changes another person made.
