@@ -17,4 +17,6 @@ to use this when you don't want to make all your changes on github.
 Branch: A branch is a different version of a project that can have different changes from other branches.
 You would want to use this when making a new feature or testing something out.
 
+What is that benefit of having a copy of the last known state of the remote stored locally?
+So you know where you are locally in relation to the remote.
 
